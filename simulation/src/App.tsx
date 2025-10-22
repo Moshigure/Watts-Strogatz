@@ -1,3 +1,8 @@
+/*
+ * SPDX-License-Identifier: MIT
+ * Copyright (c) 2025 Amit Kemelmakher
+ */
+
 import React, { useState, useEffect, useRef } from "react";
 import * as d3 from "d3";
 
