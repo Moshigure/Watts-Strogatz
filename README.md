@@ -57,8 +57,8 @@ This project numerically simulates that transition and measures canonical networ
 | 1 | 0.01 | 3.27 | Random graph |
 
 <p align="center">
-  <img src="docs/clustering_vs_p.png" width="45%" alt="Clustering vs p">
-  <img src="docs/apl_vs_p.png" width="45%" alt="Average path length vs p">
+  <img src="figures/clustering_vs_p.png" width="45%" alt="Clustering vs p">
+  <img src="figures/apl_vs_p.png" width="45%" alt="Average path length vs p">
 </p>
 
 At small nonzero *p*, ⟨L⟩ decreases rapidly while *C* remains high — the hallmark of small-world behavior.
