@@ -99,13 +99,14 @@ S = 100
 
 ```
 Watts-Strogatz/
-├── Watts_Strogatz_Project.ipynb      # Main notebook: simulations, plots, analysis
-├── figures/                          # Figures used in report and README
+├── Watts_Strogatz_Project.ipynb                                     # Main notebook: simulations, plots, analysis
+├── Watts_Strogatz_Small_World_Model__Simulation_and_Analysis.pdf    # Project Analysis Report
+├── figures/                                                         # Figures used in report and README
 │   ├── clustering_vs_p.png
 │   ├── apl_vs_p.png
 │   ├── Net.png
 │   └── ...
-└── simulation/                       # Source code of the interactive sandbox simulation
+└── simulation/                                                      # Source code of the interactive sandbox simulation
 ```
 
 ---
