@@ -3,7 +3,7 @@
 This repository implements and analyzes the **Watts–Strogatz model** for small-world networks — a cornerstone in modern network science demonstrating how a small amount of randomness in a regular lattice leads to networks that are both highly clustered and globally well connected.
 
 <p align="center">
-  <img src="figures/Net.jpeg" width="65%" alt="Watts–Strogatz small-world visualization">
+  <img src="figures/Net.png" width="65%" alt="Watts–Strogatz small-world visualization">
 </p>
 
 ---
