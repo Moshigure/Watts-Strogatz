@@ -1,3 +1,8 @@
+/*
+ * SPDX-License-Identifier: MIT
+ * Copyright (c) 2025 Amit Kemelmakher
+ */
+
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
